@@ -1,6 +1,7 @@
 <div id="connexion_header">
 	<img src="images/airfrance" height="70px" />
 </div>
+<div id="connexion">
 <h2 class="page-title"> Connexion </h2>
 <br/>
 <form method="post">
@@ -26,3 +27,4 @@
 		
 	</table>
 </form>
+</div>	
