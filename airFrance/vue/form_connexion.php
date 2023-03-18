@@ -1,5 +1,5 @@
 <div id="connexion_header">
-	<img src="images/airfrance" height="70px" />
+	<img src="images/airfrance.png" height="70px" />
 </div>
 <h2 class="page-title"> Connexion </h2>
 <br/>
