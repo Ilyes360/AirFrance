@@ -99,3 +99,25 @@ header {
 #home p {
 	font-size: 1.2em;
 }
+
+#home h1{
+	
+	color : #fff;
+	font-size: 2em;
+}
+
+/* PAGE CONNEXION */
+#connexion {
+height: 100%;
+	background-image: url("http://localhost/airFrance/images/c.jpg");
+	object-fit: contain;
+	background-size: cover;
+}
+/* PAGE AVION */
+#avion {
+	height: 100%;
+	background-image: url("http://localhost/airFrance/images/b.jpg");
+	object-fit: contain;
+	background-size: cover;
+
+}
