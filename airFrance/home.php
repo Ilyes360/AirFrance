@@ -1,6 +1,8 @@
 <div id="home">
 	<h2 class="page-title"> Accueil </h2>
-
+	
+	<h1> Bienvenue! </h1>
+	
 	<p>
 		Utilisateur connecté
 		<br />
