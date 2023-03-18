@@ -7,7 +7,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<title>Gestion des vols - Air France</title>
+	<title> Air France </title>
 	<!-- Force php to reload after the css -->
 	<link rel="stylesheet" href="css/style.css?v=<?php echo time(); ?>" />
 </head>
