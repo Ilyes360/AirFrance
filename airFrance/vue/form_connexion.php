@@ -4,9 +4,10 @@
 <h2 class="page-title"> Connexion </h2>
 <br/>
 <form method="post">
-
-	<h3> Vous êtes : </h3>
-
+	
+	<div id="h3>
+		<h3> Vous êtes : </h3>
+	 </div>
 	<table>
 
 		<tr>
