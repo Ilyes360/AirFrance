@@ -99,3 +99,11 @@ header {
 #home p {
 	font-size: 1.2em;
 }
+
+#avion {
+	height: 100%;
+	background-image: url("http://localhost/promo_266/airFrance/images/b.jpg");
+	object-fit: contain;
+	background-size: cover;
+
+}
